@@ -19,7 +19,7 @@ I'm Mohammed, a code enthusiast on a mission to build cool things with lines of 
 
 🌐 Find me elsewhere:
 
-- 🐦 Twitter: [@Mkol_ade_]('https://twitter.com/Mkol_ade_)')
+- 🐦 Twitter:('https://twitter.com/Mkol_ade_)')
 - 💼 LinkedIn: ('https://www.linkedin.com/in/mohammed-moshood-518268241/')
 
 
