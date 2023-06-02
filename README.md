@@ -1,4 +1,29 @@
-### Hi there 👋
+### Hi there! 👋
+👋 Hello, World!
+
+I'm Mohammed, a code enthusiast on a mission to build cool things with lines of code. My passion lies in FrontEnd and I'm constantly exploring new technologies and frameworks.
+
+🚀 Here's what I'm up to:
+
+- 💻 Working on a MERN FullStack website
+- 🌱 Learning Laravel PHP
+- 📚 Reading LOTR
+- 🎯 Goals: Contribute more to open source, write helpful blog posts
+
+🔧 Tech Stack:
+
+- 💻 Javascript,PHP, HTML
+- ⚙️ Reactjs,Laravel,Node
+
+💬 Let's connect and chat about code, tech, or anything interesting!
+
+🌐 Find me elsewhere:
+
+- 🐦 Twitter: [@Mkol_ade_]('https://twitter.com/Mkol_ade_)')
+- 💼 LinkedIn: ('https://www.linkedin.com/in/mohammed-moshood-518268241/')
+
+
+
 
 <!--
 **mkolade/mkolade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
