@@ -12,9 +12,9 @@ I'm Mohammed, a code enthusiast on a mission to build cool things with lines of 
 
 🔧 Tech Stack:
 
-- 💻 Javascript,PHP, HTML,CSS
-- ⚙️ Reactjs,Express,Node,Tailwind Css
-- 📚 MongoDB,MySQL,Firebase
+- 💻 Javascript, PHP, HTML, CSS
+- ⚙️ Reactjs, Express, Node, Tailwind Css
+- 📚 MongoDB, MySQL, Firebase
 
 💬 Let's connect and chat about code, tech, or anything interesting!
 
