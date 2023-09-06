@@ -20,7 +20,7 @@ I'm Mohammed, a code enthusiast on a mission to build cool things with lines of 
 
 🌐 Find me elsewhere:
 
-- 🐦 Twitter:('https://twitter.com/M_kolade_)')
+- 🐦 Twitter:('https://twitter.com/M_kolade_/)')
 - 💼 LinkedIn: ('https://www.linkedin.com/in/mohammed-moshood-518268241/')
 
 
